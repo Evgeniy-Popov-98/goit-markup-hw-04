@@ -382,7 +382,7 @@ body {
   top: 0;
   left: 0;
 
-  padding: 40px 32px 0;
+  padding: 40px 32px;
   color: #f4f4fd;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
